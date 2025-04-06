@@ -1,9 +1,9 @@
+<script>
+  window.location.href = "https://nekochan.jp/";
+</script>
 <!DOCTYPE html>
 <html>
-<head>
-  <meta http-equiv="refresh" content="0; URL=https://nekochan.jp/">
-</head>
 <body>
-  <p>自動で転送されない場合は<a href="https://nekochan.jp/">こちら</a>をクリックしてください。</p>
+  <!-- この部分は表示されません -->
 </body>
 </html>
