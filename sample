@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="refresh" content="0; url=https://nekochan.jp/">
+  <meta http-equiv="refresh" content="0; URL=https://nekochan.jp/">
 </head>
 <body>
-  <!-- 必要に応じて転送中のメッセージを表示 -->
-  <p>自動的にリダイレクトします...</p>
+  <p>自動で転送されない場合は<a href="https://nekochan.jp/">こちら</a>をクリックしてください。</p>
 </body>
 </html>
