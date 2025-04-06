@@ -1,9 +1,3 @@
 <script>
-  window.location.href = "https://nekochan.jp";
+  window.location.replace("https://nekochan.jp");
 </script>
-<!DOCTYPE html>
-<html>
-<body>
-  <!-- この部分は表示されません -->
-</body>
-</html>
